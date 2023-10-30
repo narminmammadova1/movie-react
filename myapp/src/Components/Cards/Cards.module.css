@@ -1,0 +1,22 @@
+.cardsDiv{
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* gap: 20px; */
+flex-wrap: wrap;}
+
+.card{
+    position: relative;
+}
+
+.addFav{position: absolute;
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    right: 5px;
+    top: 5px;
+    width:35%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
